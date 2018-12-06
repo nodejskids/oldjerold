@@ -19,6 +19,11 @@
 	<br />
 	Our son will be playing at the band @7:00 PM<br />
 	Information here:</form>
-<input name="Button1" onclick="&lt;a href=&quot;https://nodejskids.github.io/oldjerold/bandLOL.aspx&quot;&gt;nodejskids.github.io/oldjerold/bandLOL.aspx&lt;/a&gt; " type="button" value="InformationHERE" />
+
+
+<p>https://nodejskids.github.io/oldjerold/bandLOL.aspx</p>
+
+
 </body>
+
 </html>
